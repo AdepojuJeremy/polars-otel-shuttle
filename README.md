@@ -384,7 +384,7 @@ Today this template uses Shuttle’s OTEL → Better Stack integration. Shuttle 
 
 ## License
 
-MIT (or your preferred license)
+MIT
 
 ## Contributing
 
